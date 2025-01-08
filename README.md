@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @3lade
-- 👀 I’m interested in War
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Ireddy Yeshwanth Reddy
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: attack helicaptor
