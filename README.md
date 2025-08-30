@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="140" src="[[https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fcute-cat-holding-gold-trophy-animal-2345083805&psig=AOvVaw0-hAhodwn6e3VKRxF3Yxoa&ust=1756617736125000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCCoIXlsY8DFQAAAAAdAAAAABAE)](https://thumb.ac-illust.com/71/713eaa8667415d10028c946b6862219f_t.jpeg)"  alt="GitHub Profile Trophy"/>
+  <img width="140" src="C:\Users\10840028\Downloads\713eaa8667415d10028c946b6862219f_t.jpeg"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
