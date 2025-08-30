@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="140" src="C:\Users\10840028\Downloads\713eaa8667415d10028c946b6862219f_t.jpeg"  alt="GitHub Profile Trophy"/>
+  <img width="140" src="C:\Users\10840028\Downloads\713eaa8667415d10028c946b6862219f_t.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
