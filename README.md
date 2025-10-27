@@ -62,20 +62,6 @@
 
 ---
 
-## 🏆 Achievement Highlights
-
-<p align="center">
-  <strong>⭐ GitHub Contributions | 🔥 Coding Streaks | 🎯 Open Source | 💻 Full-Stack Development</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/profile%20views-1.2k%2B-blue?style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/repositories-50%2B-brightgreen?style=flat-square" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/followers-100%2B-orange?style=flat-square" alt="Followers"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
