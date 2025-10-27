@@ -69,7 +69,6 @@
 <p align="center">
   <img src="https://trophygh.vercel.app/?username=3lade&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
-
 ---
 
 
@@ -79,12 +78,12 @@
 
 ---
 
+
 ## 🔗 Visitor Count  
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=3lade&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visitor Count"/>
 </p>
-
 ---
 
 <!-- Footer -->
