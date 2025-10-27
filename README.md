@@ -67,12 +67,11 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3lade&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://trophygh.vercel.app/?username=3lade&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
@@ -83,7 +82,7 @@
 ## 🔗 Visitor Count  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=3lade&icon=0&color=6" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=3lade&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visitor Count"/>
 </p>
 
 ---
